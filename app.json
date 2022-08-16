@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MovieMobile",
+    "slug": "MovieMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MovieMobile"
+}
